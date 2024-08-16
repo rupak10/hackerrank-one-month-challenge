@@ -28,6 +28,7 @@ public class PlusMinusNumberRatio {
             }
         }
 
+        //need to convert the number to double
         System.out.printf("%.6f%n", (double)positiveNumberCount/totalLength);
         System.out.printf("%.6f%n", (double)negativeNumberCount/totalLength);
         System.out.printf("%.6f%n", (double)zeroCount/totalLength);

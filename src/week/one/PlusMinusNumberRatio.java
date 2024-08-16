@@ -1,6 +1,4 @@
 package week.one;
-
-import java.text.DecimalFormat;
 import java.util.List;
 
 public class PlusMinusNumberRatio {
